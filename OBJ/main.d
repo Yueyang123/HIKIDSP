@@ -38,13 +38,6 @@
 ..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\main.o: ..\HARDWARE\W25X16\W25X16.h
 ..\obj\main.o: ..\MALLOC\malloc.h
-..\obj\main.o: ..\EMWIN\STemWin\inc\GUI.h
-..\obj\main.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
-..\obj\main.o: ..\EMWIN\STemWin\Config\GUIConf.h
-..\obj\main.o: ..\EMWIN\STemWin\inc\GUI_Type.h
-..\obj\main.o: ..\EMWIN\STemWin\inc\LCD.h
-..\obj\main.o: ..\EMWIN\STemWin\inc\Global.h
-..\obj\main.o: ..\EMWIN\STemWin\inc\GUI_Version.h
 ..\obj\main.o: ..\HARDWARE\SERVO\SERVO.h
 ..\obj\main.o: ..\HARDWARE\ADC\ADC.h
 ..\obj\main.o: ..\DSP\MyDSP.h

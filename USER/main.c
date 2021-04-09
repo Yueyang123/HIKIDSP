@@ -6,7 +6,6 @@
 #include "LCD_X.h"
 #include "W25X16.h"
 #include "malloc.h"
-#include "GUI.h"
 #include "SERVO.h"
 #include "ADC.h"
 #include "MyDSP.h"
